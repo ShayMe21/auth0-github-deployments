@@ -1,7 +1,7 @@
 {
-  "client_id": "2APLFZy2fskBcO5ygDztQ6B9b5sgg1F9",
   "audience": "random.api",
   "scope": [
     "read:random"
   ]
 }
+
