@@ -1,0 +1,10 @@
+{
+  "name": "random-api",
+  "identifier": "random.api",
+  "scopes": [
+    {
+      "value": "read:random",
+      "description": "Read Random API"
+    }
+  ]
+}
