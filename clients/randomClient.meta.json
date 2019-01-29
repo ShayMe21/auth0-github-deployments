@@ -1,0 +1,6 @@
+{
+  "audience": "random.api",
+    "scope": [
+      "read:random"
+    ]
+}
