@@ -1,4 +1,5 @@
 {
   "name": "test-db-connection",
-  "strategy": "auth0"
+  "strategy": "auth0",
+  "options": {}
 }
