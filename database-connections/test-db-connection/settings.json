@@ -1,0 +1,16 @@
+{
+
+  "name": "test-db-connection",
+  "strategy": "auth0",
+  "options": {
+    "validation": {},
+    "passwordPolicy": "",
+    "password_history": {},
+    "password_no_personal_info": {},
+    "password_dictionary": {}
+  },
+  "enabled_clients": [
+    "DTt4VgMj0hcrPmnhIUdzXBNMUDtrAxT8"
+  ]
+
+}
