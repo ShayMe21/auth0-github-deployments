@@ -16,5 +16,6 @@
     "password_complexity_options": {
       "min_length": 6
     }
+    
   }
 }
