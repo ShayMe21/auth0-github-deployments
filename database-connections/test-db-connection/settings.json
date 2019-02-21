@@ -9,14 +9,14 @@
     "DTt4VgMj0hcrPmnhIUdzXBNMUDtrAxT8"
   ],
   "options": {
-    "enabledDatabaseCustomization": false,
+    "enabledDatabaseCustomization": true,
     "passwordPolicy": "fair",
     "brute_force_protection": true,
     "strategy_version": 2,
     "password_complexity_options": {
       "min_length": 6
     }
-    
+
 
   }
 }
